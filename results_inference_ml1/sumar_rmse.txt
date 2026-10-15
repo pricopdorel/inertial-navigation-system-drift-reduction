@@ -1,0 +1,6 @@
+SUMAR RMSE poziție (m) — test seed=777
+circle     | pură  2064.98 | calib   215.71 | ML1   844.70 | −59.1%
+figure8    | pură  1486.53 | calib   474.89 | ML1   571.68 | −61.5%
+rectangle  | pură  5218.91 | calib   848.39 | ML1   283.86 | −94.6%
+spiral     | pură   826.41 | calib   181.84 | ML1   363.15 | −56.1%
+random     | pură  3874.24 | calib   551.61 | ML1   328.36 | −91.5%
