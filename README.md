@@ -219,8 +219,3 @@ Suggestions for future work: more training trajectories with a smaller network (
 - Groves, 2013. *Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems*.
 - Titterton and Weston, 2004. *Strapdown Inertial Navigation Technology*.
 
----
-
-## License
-
-Add a license of your choice (for example MIT) before publishing.
